@@ -1,5 +1,7 @@
 # Internship-Tracker
-A discord bot that utilizes a Python Script to keep track of upcoming internship opportunities in the pittcsc's github repository. Whenever a new internship is detected, bot will generate a notification within a discord chat to alert users within the chat it is deployed in
+A discord bot that utilizes a Python Script to keep track of upcoming internship opportunities in the pittcsc's github repository. Whenever a new internship is detected, bot will generate a notification within a discord chat to alert users within the chat it is deployed in.
+<br>
+Made this with friends and we're all using it together :)
 ## Tech-Stack:
 Python
 ## Uses:
