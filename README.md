@@ -3,7 +3,8 @@ A discord bot that utilizes a Python Script to keep track of upcoming internship
 <br><br>
 Made this with friends and we're all using it together :)
 ## Tech-Stack:
-Python
+- Discord API
+- Python
 ## Uses:
 - Automated tracking of internships
 - Easy to use Discord bot 
